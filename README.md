@@ -1,4 +1,4 @@
-# Machine-Learning---Deep-Learning
+# Machine-Learning---Deep-Learning Object Detection and Classification
 
 Machine Learning and Deep Learning models for Cats and Dogs image detection (regression) and classification.
 Group Project for Indiana University Bloomington CSCI P556 Applied Machine Learning by Courtney Payton, Kelly Craig, Martin Berth, and Vicente De Leon.
