@@ -1,9 +1,6 @@
 # Machine-Learning---Deep-Learning
 
-Machine Learning and Deep Learning models for object detection (regression) and classification.
+Machine Learning and Deep Learning models for Cats and Dogs image detection (regression) and classification.
 Group Project for Indiana University Bloomington CSCI P556 Applied Machine Learning (Graduate Course) by Courtney Payton, Kelly Craig, Martin Berth, and Vicente De Leon.
 
-Phase 1 and Phase 2 consist of EDA (exploratory data analysis), data processing/feature engineering, pipeline creation, classification and regression algorithms using Scikit-learn. Phase 3 and Phase 4 consist of Deep Learning models like Multilayer Perceptron, Convolutional Neural Networks, Fully Convolutionl Networks and other techniques such as Transfer Learning (AlexNet). 
-
-PyTorch and Keras (inlcuding TensorBoard) were implemented in Phase 3 and Phase 4 in order to tackle regression and classficiation tasks.
-Google Colab was used for all phases, including custom VMs from Google Cloud.
+The project spanned four distinct phases, each strategically designed to achieve specific goals. Phases 1 and 2 involved Exploratory Data Analysis (EDA), data processing, and feature engineering, followed by the implementation of classification and regression algorithms using Scikit-learn. Phases 3 and 4 introduced the realm of Deep Learning, encompassing models such as Multilayer Perceptron, Convolutional Neural Networks, and Fully Convolutional Networks. Additionally, advanced techniques like Transfer Learning, employing the renowned AlexNet architecture, were explored. In Phases 3 and 4, PyTorch and TensorFlow(Keras API) took center stage, providing the tools necessary to tackle regression and classification tasks. The integration of TensorBoard further facilitated model training and optimization. Experimentations were conducted on Google Colab. Additionally, the support of custom virtual machines from Google Cloud provided a robust infrastructure.
